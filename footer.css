@@ -14,7 +14,8 @@
     background: #a2be33;
     border-bottom-color: black;
     border-top-style: solid;
-    border-top-width: 1px;          
+    border-top-width: 1px;  
+    margin-top: 190px;        
 }
 #Logo_foot img {
     position: absolute;
