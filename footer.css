@@ -4,13 +4,8 @@
             src: url(header.ttf);
         }
         
-@font-face {
-            font-family: othertext;
-            /* Гарнитура шрифта */
-            src: url(othertext.ttf);
-        }
 .footer {
-    height: 160px;
+    height: 165px;
     background: #a2be33;
     border-bottom-color: black;
     border-top-style: solid;
