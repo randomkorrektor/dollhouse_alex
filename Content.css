@@ -113,3 +113,87 @@
             margin-bottom: 22;
             
         }           
+    .HomeImage{
+        position:absolute;
+        width:120%;
+       
+        margin-left:-306px;
+        z-index: -1;
+    }
+            .LogoCenter {
+            margin-top: 150px;
+            text-align: center;
+            margin-bottom: 400px;
+            
+        }  
+        .LogoCenter img {
+            height: 380px;
+        }
+        #NavbarHome_style {
+            /*    opacity:0.8; */
+            height: 75px!important;
+            
+            border-bottom: 1px solid #666666;
+            
+        }
+           #NavbarHome_font li a {
+            font-size: 170%;
+            font-family: Navbar_ts, 'Arial', bold;
+            color: #f8f8ff;
+            padding-top: 15px;
+            margin-top: 8px;
+            margin-right:65px;
+            margin-left:50px;
+            border: 1px solid rgb(0,0,0,0);
+            
+            
+            
+        }
+        #NavbarHome_font li a:active {
+            background: #f8f8ff;
+            opacity: 0.7; 
+            box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+            border: 1px solid #353535;
+        }
+        #NavbarHome_font li a:hover {
+            color: #FF6C0D;
+        }
+        .backopasity{
+        background: rgb(0,0,0,0);
+        border: 0px;
+        }
+#Shop{
+            margin-top: 58px;
+            margin-right:65px;
+            margin-left:85px;
+            
+            text-decoration:none;
+            
+            
+}
+ #Shop a {
+            font-size: 170%;
+            font-family: Navbar_ts, 'Arial', bold;
+            color: #f8f8ff;
+            padding-top: 15px;
+            margin-top: 28px;
+            margin-right:65px;
+            margin-left:50px;
+            border: 2px solid #f8f8ff;
+            text-decoration:none;
+            padding-left: 19px;
+            padding-right: 19px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            
+        }
+        #Shop a :active {
+            background: #f8f8ff;
+            opacity: 0.7; 
+            box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+            border: 1px solid #353535;
+        }
+        #Shop a:hover {
+            color: #FF6C0D;
+        }
+   
